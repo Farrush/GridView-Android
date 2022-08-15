@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/rafael.ctaranto/Documents/ProjetoAndroid/PiMenu/app/src/main/res/drawable/edtmenulayout.xml" value="0.1975" />
+        <entry key="..\:/Users/rafael.ctaranto/Documents/ProjetoAndroid/PiMenu/app/src/main/res/drawable/fundo_model.xml" value="0.1" />
+        <entry key="..\:/Users/rafael.ctaranto/Documents/ProjetoAndroid/PiMenu/app/src/main/res/drawable/menu_img_layer.xml" value="0.1975" />
+        <entry key="..\:/Users/rafael.ctaranto/Documents/ProjetoAndroid/PiMenu/app/src/main/res/layout/menu_layout.xml" value="0.1" />
+        <entry key="..\:/Users/rafael.ctaranto/Documents/ProjetoAndroid/PiMenu/app/src/main/res/layout/modelo_cardapio.xml" value="0.1" />
+        <entry key="..\:/Users/vinicius.nsantos6/Documents/ProjetoAndroid/ProjetoIntegrador/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1385" />
+        <entry key="..\:/Users/vinicius.nsantos6/Documents/ProjetoAndroid/ProjetoIntegrador/app/src/main/res/drawable/edtmenulayout.xml" value="0.161" />
+        <entry key="..\:/Users/vinicius.nsantos6/Documents/ProjetoAndroid/ProjetoIntegrador/app/src/main/res/drawable/fundo_model.xml" value="0.1385" />
+        <entry key="..\:/Users/vinicius.nsantos6/Documents/ProjetoAndroid/ProjetoIntegrador/app/src/main/res/drawable/ic_baseline_house.xml" value="0.17" />
+        <entry key="..\:/Users/vinicius.nsantos6/Documents/ProjetoAndroid/ProjetoIntegrador/app/src/main/res/drawable/ic_baseline_menu.xml" value="0.17" />
+        <entry key="..\:/Users/vinicius.nsantos6/Documents/ProjetoAndroid/ProjetoIntegrador/app/src/main/res/drawable/ic_baseline_search.xml" value="0.17" />
+        <entry key="..\:/Users/vinicius.nsantos6/Documents/ProjetoAndroid/ProjetoIntegrador/app/src/main/res/drawable/ic_baseline_settings.xml" value="0.161" />
+        <entry key="..\:/Users/vinicius.nsantos6/Documents/ProjetoAndroid/ProjetoIntegrador/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1385" />
+        <entry key="..\:/Users/vinicius.nsantos6/Documents/ProjetoAndroid/ProjetoIntegrador/app/src/main/res/drawable/ic_mesamenu.xml" value="0.17" />
+        <entry key="..\:/Users/vinicius.nsantos6/Documents/ProjetoAndroid/ProjetoIntegrador/app/src/main/res/drawable/menu_image_shape.xml" value="0.161" />
+        <entry key="..\:/Users/vinicius.nsantos6/Documents/ProjetoAndroid/ProjetoIntegrador/app/src/main/res/drawable/menu_img_layer.xml" value="0.161" />
+        <entry key="..\:/Users/vinicius.nsantos6/Documents/ProjetoAndroid/ProjetoIntegrador/app/src/main/res/drawable/menu_item_cardapio.xml" value="0.1" />
+        <entry key="..\:/Users/vinicius.nsantos6/Documents/ProjetoAndroid/ProjetoIntegrador/app/src/main/res/layout/activity_main.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/vinicius.nsantos6/Documents/ProjetoAndroid/ProjetoIntegrador/app/src/main/res/layout/menu_layout.xml" value="0.25" />
+        <entry key="..\:/Users/vinicius.nsantos6/Documents/ProjetoAndroid/ProjetoIntegrador/app/src/main/res/layout/modelo_cardapio.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
